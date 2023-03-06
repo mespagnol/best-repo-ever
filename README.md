@@ -1,3 +1,5 @@
 # best-repo-ever
 oh la la la
-line added for new branch 1
+<<<<<<< HEAD
+this is a line for the new branch 2
+
